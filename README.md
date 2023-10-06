@@ -20,6 +20,6 @@ MongoDB - CRUD Operation Part 2: ( Read / Query) : https://youtu.be/WYLIlBsWKxQ
 
 MongoDB - CRUD Operation Part 3: ( Update  & Delete ) : https://youtu.be/kLgp3I3ANRA
 
-MongoDB Indexes - Part 1:
+MongoDB Indexes - Part 1 [MongoDB Indexes - Create , Drop an Index, Index Types -Single field Index, Compound Field Index] : https://youtu.be/QUyRWh7URKw
 
-MongoDB Indexes - Part 2:
+MongoDB Indexes - Part 2 [MongoDB Indexes - Part 2 - Multikey Index, Text Index Operations]: https://youtu.be/ZYf5TJLRcDg
