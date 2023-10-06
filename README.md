@@ -11,3 +11,13 @@ https://www.mongodb.com/try/download/shell
 MongoDB Compass : https://www.mongodb.com/try/download/compass
 
 Mongo DB Installation: https://youtu.be/_eyrSkTZ6bM
+
+MongoDB - CRUD Operation Part 1: ( Create / Insert) : https://www.youtube.com/watch?v=6vYWPnkboaQ
+
+MongoDB - CRUD Operation Part 2: ( Read / Query) : https://youtu.be/WYLIlBsWKxQ
+
+MongoDB - CRUD Operation Part 3: ( Update  & Delete ) :
+
+MongoDB Indexes - Part 1:
+
+MongoDB Indexes - Part 2:
