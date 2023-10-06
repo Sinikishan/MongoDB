@@ -16,7 +16,7 @@ MongoDB - CRUD Operation Part 1: ( Create / Insert) : https://www.youtube.com/wa
 
 MongoDB - CRUD Operation Part 2: ( Read / Query) : https://youtu.be/WYLIlBsWKxQ
 
-MongoDB - CRUD Operation Part 3: ( Update  & Delete ) :
+MongoDB - CRUD Operation Part 3: ( Update  & Delete ) : https://youtu.be/kLgp3I3ANRA
 
 MongoDB Indexes - Part 1:
 
