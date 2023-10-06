@@ -9,6 +9,7 @@ MongoDB Shell :
 https://www.mongodb.com/try/download/shell
 
 MongoDB Compass : https://www.mongodb.com/try/download/compass
+
 MongoDB Compass Usage :https://youtu.be/yZutVjVlPr0
 
 Mongo DB Installation: https://youtu.be/_eyrSkTZ6bM
